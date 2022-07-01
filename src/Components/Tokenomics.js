@@ -15,18 +15,6 @@ class Tokenomics extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function (education) {
-      return (
-        <div key={education.school}>
-          <h3>{education.school}</h3>
-          <p className="info">
-            {education.degree} <span>&bull;</span>
-            <em className="date">{education.graduated}</em>
-          </p>
-          <p>{education.description}</p>
-        </div>
-      );
-    });
 
     const work = this.props.data.work.map(function (work) {
       return (
