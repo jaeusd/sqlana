@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"SQLANA",
+    "headquarters": "SQLANA HQ",
+    "description":"Sqlana ($SQL) is a next gen meme coin born from the anti-SOL sentiment aroused by the repeated downtimes of the Solana Blockchain",
+    "description2": "Trade with superb scalability of SQL",
+    "image":"Sqlana.png",
+    "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.",
+    "disclaimer":"Solana is a property of the Solana Foundation and is not, in any way, affiliated with SQLANA HQ and its community. Furthermore, Sqlana is a fucking MEME, not a financial investment.",
+    "email": "solanahq@gmail.com",
+    "phone": "",
+    "tokenAddress": "2FcAtfp16b7NoEzJMbY4jLnyLcUANqFV19oBCKbzTe5Q",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/SQLANAHQ",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name": "email",
+        "url": "mailto: sqlanahq@gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Total Fixed Supply : 1,000,000,000 SQL",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"No Pre-Sales or Lock Ups",
+        "title":"Sqlana HQ",
+        "years":"June 2022 - July 2022",
+        "description":"After launch, the Sqlana HQ has decided to pool a generous sum of tokens to seed its own project team that could fund and execute on ecosystem- and community-building initiatives and offer rewards to the most loyal and engaged holders and builders."
+      }
+    ],
+    "skills":[
+      {
+        "name":"SQLANA Community HQ : 15%",
+        "level":"15%"
+      },
+      {
+        "name":"Reserves for Burn: 20%",
+        "level":"20%"
+      },
+      {
+        "name":"Community Airdrop: 2%",
+        "level":"2%"
+      },
+      {
+        "name":"Treasury: 18%",
+        "level":"18%"
+      },
+      {
+        "name":"Public Sales: 45%",
+        "level":"45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"[#1] Launch V1 of SQLANA Website",
+        "category":"",
+        "image":"../Sqlana.png",
+        "url":""
+      },
+      {
+        "title":"[#2] Launch official community Twitter",
+        "category":"",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"[#3] $SQL Minting and Listing on Dexlab",
+        "category":"",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"[#4] Incentive Launch: Burn of $SQL TotalSupply",
+        "category":"",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"[#5] Round 1 of $SQL Community Airdrop",
+        "category":"",
+        "image":"05.jpg",
+        "url":""
+      }
+    ]
+  }
+}
