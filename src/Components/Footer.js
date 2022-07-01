@@ -24,12 +24,12 @@ class Footer extends Component {
 
               <ul className="copyright">
                 <li>&copy; Copyright {new Date().getFullYear()} <a href="#">Sqlana</a></li>
-                <li>
+                {/* <li>
                   Design inspired by{" "}
                   <a title="Styleshout">
                     Nordic Giants
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </Fade>
