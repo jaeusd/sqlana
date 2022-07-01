@@ -2,6 +2,14 @@ import React, { Component } from "react";
 import Slide from "react-reveal";
 
 class Tokenomics extends Component {
+  getRandomColor() {
+    let letters = "0123456789ABCDEF";
+    let color = "#";
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
   render() {
     if (!this.props.data) return null;
 
