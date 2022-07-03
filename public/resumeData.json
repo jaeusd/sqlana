@@ -2,11 +2,11 @@
   "main": {
     "name":"SQLANA",
     "headquarters": "SQLANA HQ",
-    "description":"Sqlana ($SQL) is a next gen meme coin born from the anti-SOL sentiment aroused by the repeated downtimes of the Solana Blockchain",
+    "description":"Have you hear of Sqlana? Sqlana ($SQL) is a next generation meme token born from the anti-SOL sentiment aroused by the repeated downtimes of the Solana Blockchain",
     "description2": "Trade with the superb scalability of SQL",
     "image":"Sqlana.png",
     "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.",
-    "disclaimer":"Solana is a property of the Solana Foundation and is not, in any way, affiliated with SQLANA HQ and its community. Furthermore, Sqlana is a fucking MEME, not a financial investment.",
+    "disclaimer":"Solana is a property of the Solana Foundation and is not, in any way, affiliated with SQLANA HQ and its community. Furthermore, Sqlana is a MEME and a speculative investment. Please invest at your own risk.",
     "email": "solanahq@gmail.com",
     "phone": "",
     "tokenAddress": "2FcAtfp16b7NoEzJMbY4jLnyLcUANqFV19oBCKbzTe5Q",
@@ -30,6 +30,11 @@
         "name": "email",
         "url": "mailto: sqlanahq@gmail.com",
         "className": "fa fa-envelope"
+      },
+      {
+        "name": "fb",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -104,6 +109,12 @@
         "title":"[#4] Incentive Launch: Burn of $SQL TotalSupply",
         "category":"",
         "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"[#5] Round 1 of $SQL Community Airdrop",
+        "category":"",
+        "image":"05.jpg",
         "url":""
       },
       {
