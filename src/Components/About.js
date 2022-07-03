@@ -36,7 +36,7 @@ class About extends Component {
                   <h2>What is SQLANA?</h2>
                   <p>Sqlana(SQL) is a Solana Downtime meme token powered by community and unique burning mechanism. </p>
                   <h2>UNIQUE BURN MECHANISM</h2>
-                  <p>Unlike other meme tokens, we have a unique burning mechanism. We burn 1% of the total circulating supplies every time when Solana experiences a downtime. We will also burn an additional 0.5% when Solana's TPS goes down below Ethereum's TPS. If Solana is better than this should not happen, right?   </p>
+                  <p>Unlike other meme tokens, we have a unique burning mechanism. We will burn 1% of the total circulating supplies every time when Solana experiences a downtime. We will also burn an additional 0.5% when Solana's TPS goes down below Ethereum's TPS.</p>
                 </div>
    
                 {/* <div className="columns download">
