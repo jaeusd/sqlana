@@ -74,41 +74,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"[#1] Launch V1 of SQLANA Website",
+        "title":"[1. JULY 2022] Launch V1 of SQLANA Website, Launch official community Twitter",
         "category":"",
         "image":"../Sqlana.png",
         "url":""
       },
       {
-        "title":"[#2] Launch official community Twitter",
+        "title":"[2. August 2022] $SQL Minting and Listing on Dexlab",
         "category":"",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"[#3] $SQL Minting and Listing on Dexlab",
-        "category":"",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"[#4] Incentive Launch: Burn of $SQL TotalSupply",
-        "category":"",
-        "image":"04.jpg",
+        "image":"../Sqlana.png",
         "url":""
       },
       {
-        "title":"[#5] Round 1 of $SQL Community Airdrop",
+        "title":"[3. August 2022] $SQL Minting and Listing on Dexlab",
         "category":"",
-        "image":"05.jpg",
+        "image":"../Sqlana.png",
         "url":""
       },
       {
-        "title":"[#5] Round 1 of $SQL Community Airdrop",
+        "title":"[4. August 2022] Incentive Launch: Burn of $SQL TotalSupply",
         "category":"",
-        "image":"05.jpg",
+        "image":"../Sqlana.png",
         "url":""
       }
+   
     ]
   }
 }
