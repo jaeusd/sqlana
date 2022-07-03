@@ -30,13 +30,13 @@ class About extends Component {
             <div className="nine columns main-col">
               <h2>YOUR NEW FAVORITE DOWNTIME TOKEN</h2>
 
-              <p>{bio}</p>
+              <p></p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>What is SQLANA?</h2>
-                  <p>2FcAtfp16b7NoEzJMbY4jLnyLcUANqFV19oBCKbzTe5Q.</p>
+                  <p>Sqlana(SQL) is a Solana Downtime meme token powered by community and unique burning mechanism. </p>
                   <h2>UNIQUE BURN MECHANISM</h2>
-                  <p>.</p>
+                  <p>Unlike other meme tokens, we have a unique burning mechanism. We burn 1% of the total circulating supplies every time when Solana experiences a downtime. We will also burn an additional 0.5% when Solana's TPS goes down below Ethereum's TPS. If Solana is better than this should not happen, right?   </p>
                 </div>
    
                 {/* <div className="columns download">
