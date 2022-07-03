@@ -30,11 +30,6 @@
         "name": "email",
         "url": "mailto: sqlanahq@gmail.com",
         "className": "fa fa-envelope"
-      },
-      {
-        "name": "fb",
-        "url": "https://www.facebook.com",
-        "className": "fa fa-facebook"
       }
     ]
   },
