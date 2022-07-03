@@ -42,59 +42,56 @@
     "skillmessage":"Total Fixed Supply : 1,000,000,000 SQL",
     "work":[
       {
-        "company":"No Pre-Sales or Lock Ups",
+        "company":"No Pre-Sales/ Lock Ups/ Fixed Market Supply",
         "title":"Sqlana HQ",
         "years":"June 2022 - July 2022",
-        "description":"After launch, the Sqlana HQ has decided to pool a generous sum of tokens to seed its own project team that could fund and execute on ecosystem- and community-building initiatives and offer rewards to the most loyal and engaged holders and builders."
+        "description":"At launch, the Sqlana HQ has decided to burn 10% of the total 'Reserve for burn' to reward the community for supporting the launch."
       }
     ],
     "skills":[
       {
-        "name":"SQLANA Community HQ : 15%",
+        "name":"Reserve for Burn: 70%",
+        "level":"70%"
+      },
+      {
+        "name":"Public Sales: 10%",
+        "level":"10%"
+      },
+      {
+        "name":"Community Airdrop: 5%",
+        "level":"5%"
+      },
+      {
+        "name":"Research & Development (SqlanaHQ) 15%",
         "level":"15%"
-      },
-      {
-        "name":"Reserves for Burn: 20%",
-        "level":"20%"
-      },
-      {
-        "name":"Community Airdrop: 2%",
-        "level":"2%"
-      },
-      {
-        "name":"Treasury: 18%",
-        "level":"18%"
-      },
-      {
-        "name":"Public Sales: 45%",
-        "level":"45%"
       }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"[1. JULY 2022] Launch V1 of SQLANA Website, Launch official community Twitter",
+        "title":"[1. JULY 2022] Launch V1 of SQLANA Website & official community Twitter",
         "category":"",
-        "image":"../Sqlana.png",
+        "image":"../Sqlana 1.png",
         "url":""
       },
       {
         "title":"[2. August 2022] $SQL Minting and Listing on Dexlab",
         "category":"",
-        "image":"../Sqlana.png",
+        "image":"../Sqlana 2.png",
         "url":""
       },
       {
-        "title":"[3. August 2022] $SQL Minting and Listing on Dexlab",
+        "title":"[3. August 2022] $SQL Airdrop to the community",
         "category":"",
-        "image":"../Sqlana.png",
+        "image":"../Sqlana 3.png",
         "url":""
       },
       {
         "title":"[4. August 2022] Incentive Launch: Burn of $SQL TotalSupply",
         "category":"",
-        "image":"../Sqlana.png",
+        "image":"../Sqlana 4.png",
         "url":""
       }
    
